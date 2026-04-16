@@ -21,9 +21,7 @@ public class ClasseA {
     }
 
     public void setA1(int valor) {
-
         a1 = valor;
-
     }
 
     public void setA2(float valor) {
