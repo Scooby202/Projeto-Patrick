@@ -22,4 +22,10 @@ public class ClasseC {
 
   }
 
+  public void MC3(){
+
+    System.out.println("MC3");
+
+  }
+
 }
