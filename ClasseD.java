@@ -20,4 +20,10 @@ public class ClasseD {
 
   }
 
+  public void MD4(){
+
+    System.out.println("MD4");
+    
+  }
+
 }
